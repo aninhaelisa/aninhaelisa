@@ -11,6 +11,12 @@ Software Engineering • Java Student
 
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br>
 
 ### `> about`
@@ -73,7 +79,7 @@ Software Engineering • Java Student
   <img src="https://img.shields.io/badge/GitHub-39ff14?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.c](https://www.linkedin.com/in/ana-elisa-00477a3a8/">
   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -92,8 +98,4 @@ $ learning
 > System Design
 ```
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aninhaelisa/aninhaelisa/output/github-contribution-grid-snake.svg">
-</picture>
+
