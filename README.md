@@ -1,5 +1,5 @@
 
-![GIF](https://bitter-river-59ae.elisaana-2019-2006.workers.dev/?v=1)
+![GIF](src/gif1.gif)
 
 <div align="left">
 
