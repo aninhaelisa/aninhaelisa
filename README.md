@@ -1,5 +1,5 @@
 
-![GIF](src/gif2.gif)
+![GIF](src/gif1.gif)
 
 <div align="left">
 
